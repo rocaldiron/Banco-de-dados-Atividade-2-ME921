@@ -1,0 +1,1 @@
+O banco de dados é constituído pelas duas planilhas, pois não haviam todos os jogos em uma única planilha. No fim, foi feito um rbind nos dois arquivos csv, e para evitar que tivessem linhas repetidas, utilizei a função unique.
